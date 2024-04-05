@@ -1,0 +1,117 @@
+        .div-hr-p5 {
+            height: 39px;
+            background-color: #CE3F46;
+            font-weight: bold;
+            text-align: left;
+
+        }
+
+        .t1-div-p5 {
+            max-width: 100%;
+            max-height: 100%;
+            margin-left: 20%;
+            color: #fff;
+
+            display: flex;
+            align-items: center;
+            height: 100px;
+
+        }
+
+
+
+        .container-p5 {
+            width: 900px;
+            /* width: 1178px; */
+            font-family: Arial, sans-serif;
+            margin: auto;
+        }
+
+        .container2-p5 {
+            width: 900px;
+            background-color: #ECECEC;
+            font-family: Arial, sans-serif;
+            margin: auto;
+        }
+
+        .div157-p5 {
+            display: flex;
+            /* align-items: center; */
+            /* display: flex; */
+            align-items: center;
+            height: 100px;
+        }
+
+        .img1-p5 {
+            width: 30px;
+            height: 30px;
+        }
+
+        .h2-p5 {
+            margin: 10px;
+            color: #CE3F46;
+            font-size: 25px;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .form-p5 {
+            margin: 10px;
+            padding: 10px;
+        }
+
+        .input-p5[type=text],
+        select {
+            width: 40%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #000;
+            border-radius: 20px;
+            box-sizing: border-box;
+            margin-left: 20px;
+        }
+
+        .input-sub-p5 {
+            width: 20%;
+            background-color: #CE3F46;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            display: flex;
+
+        }
+
+        .label-p5 {
+            padding: 10px;
+
+
+            color: #000;
+            font-size: 25px;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+
+        }
+
+        .t205-p5 {
+            display: flex;
+            align-items: center;
+            margin: auto;
+
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #captchaCanvas {
+            border: 1px solid #000;
+        }
+
+        .div-canvasp5 {
+            padding: 10px;
+        }

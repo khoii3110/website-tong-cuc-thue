@@ -1,0 +1,32 @@
+.container-pagemain-p6 {
+    padding: 0px;
+
+    height: 100%;
+    width: 70%;
+    margin: auto;
+}
+
+.t-title-p6 {
+    text-align: left;
+    color: #EC420D;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.div-d-f-hr-p8 {
+    margin: 0px;
+    height: 100%;
+    width: 300px;
+}
+
+.hr119-p8 {
+    border: none;
+    height: 2px;
+    width:  100%;
+    background-color: #000;
+    /* Màu của đường gạch chân */
+    margin: 10px 0;
+    /* Khoảng cách trên và dưới của đường gạch chân */
+    font-weight: bold;
+}

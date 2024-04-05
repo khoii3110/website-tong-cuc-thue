@@ -1,0 +1,255 @@
+/* <!-- 1 --> */
+.container-pagemain {
+    margin: auto;
+    height: 700px;
+    width: 1178px;
+    /* background-color: #613333; */
+    padding: 0px;
+}
+
+.image-p1-tl {
+    background-image: url('../../images/pagemain.png');
+    /* background-image: url('/images/pagemain.png'); */
+    height: 100%;
+    display: flow-root;
+    /* justify-content: center; */
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.div-ct-p1-tl {
+    background-color: #D9D9D9;
+    height: 400px;
+    width: 500px;
+    margin-top: 10%;
+    margin-left: 10%;
+    opacity: 0.92;
+    border-radius: 10%;
+
+
+}
+
+.div-t-p1-tl {
+    height: 100%;
+    width: 100%;
+    padding: 40px;
+
+}
+
+.div-t1-p1-tl {
+    color: #CE3F46;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.div-t2-p1-tl {
+    color: #000;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    text-align: left;
+
+}
+
+/* <!-- 2 + 3 --> */
+.container-tttdt {
+    height: 100%;
+    width: 70%;
+    margin: auto;
+
+}
+
+.container-content {
+    margin: auto;
+    padding: 20px;
+
+}
+
+a {
+    color: inherit;
+    /* Kế thừa màu từ thẻ cha */
+    text-decoration: none;
+    /* Loại bỏ gạch chân */
+}
+
+
+
+.hr575-6xx {
+    border: none;
+    height: 5px;
+    background-color: #8d2800;
+    /* Màu của đường gạch chân */
+    margin: 10px 0;
+    /* Khoảng cách trên và dưới của đường gạch chân */
+    font-weight: bold;
+}
+
+.image575-6xx {
+    width: 40px;
+    /* Kích thước của ảnh */
+    height: 40px;
+    /* Kích thước của ảnh */
+}
+
+.list-group-item a {
+    /* margin-left: 150px; */
+    margin: auto;
+    padding: 30px;
+
+    /* Điều chỉnh khoảng cách với hình ảnh */
+}
+
+.list-group-item {
+    margin: auto;
+    margin-left: 10px;
+}
+
+.cm-p2-bs {
+    border: 3px solid #CE3F46;
+}
+
+
+
+.pagem-a-tl {
+    color: #000;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    text-align: left;
+    /* white-space: nowrap; */
+}
+
+.divpading-p2 {
+    padding: 10px;
+}
+
+.ta-l {
+    text-align: left;
+}
+
+.divpading-p3 {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cm-p3-bs {
+    border: 4px solid #CE3F46;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.tl-div-mov3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.image385-p3 {
+    width: 70px;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text385-p3 {
+    color: #CE3F46;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+
+/* <!-- 4 --> */
+.hr618-p4 {
+    border: none;
+    height: 1px;
+    background-color: #000;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+/* ======== */
+.divpading-p4 {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid #000; */
+
+}
+
+.cm-p4-bs {
+    /* border: 1px solid #000; */
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.tl-div-mov4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.text385-p4 {
+    color: #000;
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+/* long */
+.divpading-p4-2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    /* border: 1px solid #000; */
+}
+
+
+.ta-l-4 {
+    text-align: left;
+}
+
+.pagem-a-tl-p4 {
+    color: #000;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    /* white-space: nowrap; */
+}
+
+.image724-p4 {
+    width: 40px;
+    /* Kích thước của ảnh */
+    height: 40px;
+    /* Kích thước của ảnh */
+}

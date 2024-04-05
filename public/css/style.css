@@ -1,0 +1,131 @@
+/* <!-- header --> */
+.logo img {
+    height: 120px;
+    width: auto;
+    margin-right: 10px;
+    object-fit: contain;
+}
+
+
+.navbar-collapse {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+.justify-content-end {
+    padding: 0px 50px 0px 0px;
+
+}
+
+.input-group {
+    width: 400px;
+    padding: 0px 0px 0px 0px;
+}
+
+.input-content {
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+
+.btn-outline-secondary {
+    border-color: #ddd;
+    color: #ddd;
+
+}
+
+.btn-outline-secondary:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 5px 10px;
+    }
+
+
+}
+
+
+/* <!-- navigation --> */
+.bg-body-tertiary {
+    background-color: #fff;
+}
+
+.navbar {
+    padding: 10px 20px;
+}
+
+.navbar-brand img {
+    max-height: 50px;
+}
+
+.navbar-nav {
+    font-weight: bold;
+}
+
+.nav-item {
+    margin-right: 10px;
+}
+
+/* Đổi màu chữ của các thẻ a bên trong navbar thành đỏ */
+.navbar-nav .nav-link {
+    color: #CE3F46;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand img {
+        max-height: 30px;
+    }
+
+    .navbar-nav {
+        font-size: 14px;
+    }
+}
+
+/* <!-- container --> */
+body {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.containermain {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+
+/* <!-- footer --> */
+.footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.footer-bottom {
+    background-color: #903938;
+    padding: 10px 0;
+}
+
+.footer-bottom .container .add {
+    display: flex;
+    align-items: center;
+}
+
+.footer-bottom p {
+    color: #fff;
+    /* Màu chữ trắng */
+    margin: 0;
+    min-height: 30px;
+    /* Chiều cao tối thiểu cho các phần tử p */
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
